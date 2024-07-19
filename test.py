@@ -23,10 +23,6 @@ def bubble_sort(elements):
 # Sample list to be sorted
 elements = [39, 12, 18, 85, 72, 10, 2, 18]
 
-print("Unsorted list is:")
-print(elements)
-
-bubble_sort(elements)
 
 print("Sorted list is:")
 print(elements)
